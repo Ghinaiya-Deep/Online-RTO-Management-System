@@ -1,0 +1,1 @@
+Developed an Online RTO Management System using HTML, CSS, JavaScript for a responsive frontend, and PHP, MySQL for backend logic and data management. Implemented CRUD operations, secure database handling, and API integration. Ensured smooth application process for LLR, DL, and vehicle registration with real-time status updates and document printing.
