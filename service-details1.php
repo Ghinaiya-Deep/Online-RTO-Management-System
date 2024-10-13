@@ -174,16 +174,20 @@
         <table class="table table-bordered appointment-details-table">
           <thead>
             <tr>
+              <th>Registration Id</th>
               <th>Date</th>
               <th>Place</th>
               <th>Time</th>
+              <th>Service Type</th>
             </tr>
           </thead>
           <tbody>
             <tr>
+              <td><?php echo $applicant_id;?></td>
               <td><?php echo $visit_date; ?></td>
               <td><?php echo $visit_place; ?></td>
               <td><?php echo $visit_time; ?></td>
+              <td><?php echo "LLR" ?></td>
             </tr>
           </tbody>
         </table>
